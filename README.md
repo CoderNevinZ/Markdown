@@ -1,4 +1,4 @@
-# Markdown
-This a test of Markdown syntax ,please don't joke me.
+# Goal
+This is a record of my reading books
 
 
